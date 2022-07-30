@@ -1,6 +1,6 @@
 <div align="center">
    <img width="100%" src='assets/images/header.png'>
-   ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=D1C0C6)
+   ![](https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=D1C0C6)
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=9290D0&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
    </a>
@@ -15,7 +15,7 @@
    <a href="mailto:contact@julianapraxedes.com" target="_blank">
    <img src=https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
    </a>
-   ![](https://dcbadge.vercel.app/api/shield/748116653006651484?theme=6E4555)
+   ![](https://dcbadge.vercel.app/api/shield/748116653006651484?theme=purple)
    <!--<a href="https://discordapp.com/users/748116653006651484/" target="_blank">
    <img src=https://img.shields.io/badge/Discord-6E4555?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
    </a>-->
