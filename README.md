@@ -1,6 +1,8 @@
 <div align="center">
    <img width="100%" src='assets/images/header.png'>
-   ![](https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=D1C0C6)
+   <a href="https://github.com/praxeds" target="_blank">
+   <img src=https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=D1C0C6 alt="profile views" style="margin-bottom: 5px;" />
+   </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=9290D0&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
    </a>
@@ -9,13 +11,17 @@
    </a>
    <a href="https://instagram.com/juc.praxedes" target="_blank">
    <img height="26px" src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C96E8B&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-   <a href="https://instagram.com/juc.praxedes" target="_blank">
-   <img src=https://img.shields.io/badge/Gmail-D49B9D?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
    </a>
    <a href="mailto:contact@julianapraxedes.com" target="_blank">
+   <img src=https://img.shields.io/badge/Gmail-D49B9D?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+   </a>
+   <a href="https://codepen.io/praxeds/" target="_blank">
    <img src=https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
    </a>
-   ![](https://dcbadge.vercel.app/api/shield/748116653006651484?theme=purple)
+   <a href="https://discord.com/users/748116653006651484/" target="_blank">
+   <img src=https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray alt=discord style="margin-bottom: 5px;" />
+   </a>
+   
    <!--<a href="https://discordapp.com/users/748116653006651484/" target="_blank">
    <img src=https://img.shields.io/badge/Discord-6E4555?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
    </a>-->
@@ -82,33 +88,35 @@
    <h2 align='center'>Technologies</h2>
    <table>
       <tbody>
-         <td valign='top' width='33.33%>
+         <td valign='top' width='33.33%'>
             <h3 align='center'>
             Frontend
             <h3>
-            <img src='assets/svg/html5.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/css3.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/javascript.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/bootstrap.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/tailwindcss.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">                                  
+            <img src='assets/svg/html5.svg' width='20%'>
+            <img src='assets/svg/css3.svg' width='20%'>
+            <img src='assets/svg/javascript.svg' width='20%'>
+            <img src='assets/svg/bootstrap.svg' width='20%'>
+            <img src='assets/svg/tailwindcss.svg' width='20%'>                                  
          </td>
-         <td valign='top' width='33.33%>
+         <td valign='top' width='33.33%'>
             <h3 align='center'>
             Backend
             <h3>
-            <img src='assets/svg/git.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/nodedotjs.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">  
+            <img src='assets/svg/git.svg' width='20%'>
+            <img src='assets/svg/nodedotjs.svg' width='20%'>  
          </td>
-         <td valign='top' width='33.33%>
+         <td valign='top' width='33.33%'>
             <h3 align='center'>
             Other softwares
             <h3>
-            <img src='assets/svg/adobephotoshop.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/adobeillustrator.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/gimp.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/ubuntu.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);">
-            <img src='assets/svg/webflow.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);"> 
-            <img src='assets/svg/figma.svg' width='20%' style="filter: invert(12%) sepia(63%) saturate(6234%) hue-rotate(246deg) brightness(87%) contrast(156%);"> 
+            <img src='assets/svg/adobephotoshop.svg' width='20%'>
+            <img src='assets/svg/adobeillustrator.svg' width='20%'>
+            <img src='assets/svg/gimp.svg' width='20%'>
+            <img src='assets/svg/ubuntu.svg' width='20%'>
+            <img src='assets/svg/webflow.svg' width='20%'> 
+            <img src='assets/svg/figma.svg' width='20%'> 
+            <img src='assets/svg/zendesk.svg' width='20%'> 
+            <img src='assets/svg/slack.svg' width='20%'> 
          </td>
       </tbody>
    </table>
