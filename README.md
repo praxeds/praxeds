@@ -4,13 +4,13 @@
    <img height="26px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=D1C0C6" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
-   <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=9290D0&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+   <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=9290D0&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
    </a>
    <a href="https://twitter.com/jpraxeds" target="_blank">
-   <img height="26px" src="https://img.shields.io/badge/twitter-%2300acee.svg?color=A6B7E3&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+   <img height="26px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=A6B0E3&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
    </a>
    <a href="https://instagram.com/juc.praxedes" target="_blank">
-   <img height="26px" src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C96E8B&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+   <img height="26px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=C9608B&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
    </a>
    <a href="mailto:contact@julianapraxedes.com" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Gmail-D49B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
@@ -21,12 +21,9 @@
    <a href="https://discord.com/users/748116653006651484/" target="_blank">
    <img height="26px" src="https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray" alt="discord" style="margin-bottom: 5px;" />
    </a>
-   
-   <!--<a href="https://discordapp.com/users/748116653006651484/" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/Discord-6E4555?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-   </a>-->
 
   <br><br>
+  
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
     <p>- 🎓 Recently graduated in Apparel Design</p>
@@ -37,8 +34,8 @@
   </div>
 
   <br>
-   <h2 align='center'>Projects</h2>
-   <div align="center">
+   <h2>Projects</h2>
+   <div>
       <table>
          <td width="50%">
             <h3 align="center">Fujifilm Instax | Product Landing Page</h3>
@@ -84,7 +81,7 @@
             </td>
          </tr>
       </table>
-   </div>
+   
    <h2 align='center'>Technologies</h2>
    <table>
       <tbody>
@@ -92,31 +89,38 @@
             <h3 align='center'>
             Frontend
             <h3>
-            <img src='assets/svg/html5.svg' width='20%'>
-            <img src='assets/svg/css3.svg' width='20%'>
-            <img src='assets/svg/javascript.svg' width='20%'>
-            <img src='assets/svg/bootstrap.svg' width='20%'>
-            <img src='assets/svg/tailwindcss.svg' width='20%'>                                  
+            <div align="center">
+              <img src='assets/svg/html5.png' width='20%'>
+              <img src='assets/svg/css3.png' width='20%'>
+              <img src='assets/svg/javascript.png' width='20%'>
+              <img src='assets/svg/bootstrap.png' width='20%'>
+              <img src='assets/svg/tailwindcss.png' width='20%'> 
+            </div>                                 
          </td>
          <td valign='top' width='33.33%'>
             <h3 align='center'>
             Backend
             <h3>
-            <img src='assets/svg/git.svg' width='20%'>
-            <img src='assets/svg/nodedotjs.svg' width='20%'>  
+            <div align="center">
+              <img src='assets/svg/git.png' width='20%'>
+              <img src='assets/svg/nodedotjs.png' width='20%'>  
+            </div>
          </td>
          <td valign='top' width='33.33%'>
             <h3 align='center'>
             Other softwares
             <h3>
-            <img src='assets/svg/adobephotoshop.svg' width='20%'>
-            <img src='assets/svg/adobeillustrator.svg' width='20%'>
-            <img src='assets/svg/gimp.svg' width='20%'>
-            <img src='assets/svg/ubuntu.svg' width='20%'>
-            <img src='assets/svg/webflow.svg' width='20%'> 
-            <img src='assets/svg/figma.svg' width='20%'> 
-            <img src='assets/svg/zendesk.svg' width='20%'> 
-            <img src='assets/svg/slack.svg' width='20%'> 
+            <div align="center">
+              <img src='assets/svg/adobephotoshop.png' width='20%'>
+              <img src='assets/svg/adobeillustrator.png' width='20%'>
+              <img src='assets/svg/gimp.png' width='20%'>
+              <img src='assets/svg/ubuntu.png' width='20%'>
+              <img src='assets/svg/webflow.png' width='20%'> 
+              <img src='assets/svg/figma.png' width='20%'> 
+              <img src='assets/svg/zendesk.png' width='20%'> 
+              <img src='assets/svg/slack.png' width='20%'>
+            </div> 
          </td>
       </tbody>
    </table>
+</div>
