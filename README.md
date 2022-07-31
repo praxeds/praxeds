@@ -1,7 +1,7 @@
 <div align="center">
    <img width="100%" src='assets/images/header.png'>
    <a href="https://github.com/praxeds" target="_blank">
-   <img height="26px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=D1C0C6" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="26px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=DC99AF" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=9290D0&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
