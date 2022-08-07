@@ -26,10 +26,10 @@
   
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
-    <p>- 🎓 Recently graduated in Apparel Design</p>
+    <p>- 🎓 Majoring in Apparel Design</p>
     <p>- 👩🏻 Pronouns <strong>she/her</strong></p>
     <p>- 🖥️ I’m currently working on my personal <strong>portfolio website</strong></p>
-    <p>- 🌱 I’m currently learning <strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></strong></p>
+    <p>- 🌱 Currently learning <strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></strong></p>
     <p>- 🐉 Fun fact <strong>I lived in China for two years, so I can speak conversional Mandarin</strong></p>
   </div>
 
