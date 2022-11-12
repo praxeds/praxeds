@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src='assets/images/header.png'>
+   <img width="100%" src='assets/images/blueHeader.png'>
    <a href="https://github.com/praxeds" target="_blank">
    <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=DC99AF" alt="profile views" style="margin-bottom: 5px;" />
    </a>
