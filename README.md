@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src='assets/images/blueHeader.png'>
+   <img width="100%" src='assets/images/header.png'>
    <a href="https://github.com/praxeds" target="_blank">
    <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=DC99AF" alt="profile views" style="margin-bottom: 5px;" />
    </a>
@@ -56,7 +56,7 @@
             <h3 align="center">freeCodeCamp | A Tribute Page</h3>
             <p align="center">
                <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project-two.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
             <p align="center">
                <strong>HTML, CSS </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
             </p>
