@@ -46,7 +46,7 @@
             <h3 align="center">The Odin Project | Rock, Paper, Scissors</h3>
             <p align="center">
                <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"> <img src="assets/images/project-five.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/freecodecamp-product-landing-page" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+               <span> <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
             <p align="center">
                <strong>HTML, CSS, JavaScript </strong>A simple implementation of the classic “rock paper scissors”. Part of The Odin Project's curriculum.
             </p>
