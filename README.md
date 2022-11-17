@@ -31,9 +31,9 @@
 <!--     <p>- 🖥️ I’m currently working on my personal <strong>portfolio website</strong></p> -->
     <p>- 🌱 Currently focusing on:</p>
      <ul>
-        <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures</a></strong></li>
-        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer">Meta Front-End Developer Professional Certificate</a></strong></li>
-        <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project's Fullstack JavaScript</a></strong></li>
+        <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
+        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong></li>
+        <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
@@ -43,12 +43,12 @@
    <div>
       <table>
          <td width="50%">
-            <h3 align="center">Fujifilm Instax | Product Landing Page</h3>
+            <h3 align="center">The Odin Project | Rock, Paper, Scissors</h3>
             <p align="center">
-               <a href="https://github.com/praxeds/freecodecamp-product-landing-page" target="_blank" rel="noreferrer"> <img src="assets/images/project-one.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/freecodecamp-product-landing-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-product-landing-page/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+               <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"> <img src="assets/images/project-five.gif" alt="project example"/> </a>
+               <span> <a href="https://github.com/praxeds/freecodecamp-product-landing-page" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
             <p align="center">
-               <strong>HTML, CSS </strong>4th certification project assigned by freeCodeCamp as part of Responsive Web Design Curriculum.
+               <strong>HTML, CSS, JavaScript </strong>A simple implementation of the classic “rock paper scissors”. Part of The Odin Project's curriculum.
             </p>
             </p>
          </td>
@@ -56,7 +56,7 @@
             <h3 align="center">freeCodeCamp | A Tribute Page</h3>
             <p align="center">
                <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project-two.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px" target="_blank"></a> </span>
             <p align="center">
                <strong>HTML, CSS </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
             </p>
@@ -65,12 +65,12 @@
          </tr>
          <tr>
             <td width="50%">
-               <h3 align="center">freeCodeCamp | Survey Form</h3>
+               <h3 align="center">CodePen | "Clueless" Cher's Wardrobe</h3>
                <p align="center">
-                  <a href="https://github.com/praxeds/freecodecamp-survey-form" target="_blank" rel="noreferrer"> <img src="assets/images/project-three.gif" alt="project example"/> </a>
-                  <span> <a href="https://github.com/praxeds/freecodecamp-survey-form" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-survey-form/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a></span>
+                  <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"> <img src="assets/images/project-six.gif" alt="project example"/> </a>
+                  <span> <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/codepen-chers-closet/index.html" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a></span>
                <p align="center">
-                  <strong>HTML, CSS, Pure.css </strong>1st certification project assigned by freeCodeCamp as part of Responsive Web Design Curriculum. Built with Pure.css framework
+                  <strong>HTML, CSS, JavaScript </strong> Remake of Cher's closet scene from the 1995 movie Clueless. Part of Codepen's November 2022 weekly challenges.
                </p>
                </p>
             </td>
