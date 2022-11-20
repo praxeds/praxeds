@@ -32,7 +32,12 @@
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
-        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong></li>
+        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer" target="_blank">Meta Back-End Developer Professional Certificate</a></strong>
+            <ul><li><strong><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></strong></li></ul>
+        </li>
+        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
+            <ul><li><strong><a href="https://www.coursera.org/learn/introduction-to-version-control" target="_blank">Version Control</a></strong></li></ul>
+        </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
