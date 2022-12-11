@@ -1,5 +1,7 @@
 <div align="center">
-   <img width="100%" src='assets/images/header.png'>
+   
+   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=bac4ff)
+
    <a href="https://github.com/praxeds" target="_blank">
    <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=DC99AF" alt="profile views" style="margin-bottom: 5px;" />
    </a>
@@ -43,10 +45,6 @@
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
-
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
 
   <br>
    <h2>Projects</h2>
@@ -135,3 +133,5 @@
       </tbody>
    </table>
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=bac4ff)
