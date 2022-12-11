@@ -23,7 +23,7 @@
    <br/>
    <br/>
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=150)
+   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
@@ -64,7 +64,7 @@
                <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project4.gif" alt="project example"/> </a>
                <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px" target="_blank"></a> </span>
             <p align="center">
-               <strong>HTML, CSS </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
+               <strong>HTML, CSS, JavaScript </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
             </p>
             </p>
          </td>
@@ -103,8 +103,8 @@
             Backend
             <h3>
             <div align="center">
-              <img title='git' src='assets/svg/git.png' width='20%'>
-              <img title='nodejs' src='assets/svg/nodedotjs.png' width='20%'>  
+              <img title='git' src='assets/svg/git.png' height='42px'>
+              <img title='nodejs' src='assets/svg/nodedotjs.png' height='42px'>  
             </div>
          </td>
          <td valign='top' width='33.33%'>
@@ -112,12 +112,12 @@
             Frontend
             <h3>
             <div align="center">
-              <img title='html' src='assets/svg/html5.png' width='20%'>
-              <img title='css' src='assets/svg/css3.png' width='20%'>
-              <img title='javascript' src='assets/svg/javascript.png' width='20%'>
-              <img title='bootstrap' src='assets/svg/bootstrap.png' width='20%'>
-              <img title='tailwindcss' src='assets/svg/tailwindcss.png' width='20%'> 
-              <img title='react' src='assets/svg/react.png' width='20%'> 
+              <img title='html' src='assets/svg/html5.png' height='42px'>
+              <img title='css' src='assets/svg/css3.png' height='42px'>
+              <img title='javascript' src='assets/svg/javascript.png' height='42px'>
+              <img title='bootstrap' src='assets/svg/bootstrap.png' height='42px'>
+              <img title='tailwindcss' src='assets/svg/tailwindcss.png' height='42px'> 
+              <img title='react' src='assets/svg/react.png' height='42px'> 
             </div>                                 
          </td>
          <td valign='top' width='33.33%'>
@@ -125,9 +125,9 @@
             Other softwares
             <h3>
             <div align="center">
-              <img title='photoshop' src='assets/svg/adobephotoshop.png' width='20%'>
-              <img title='figma' src='assets/svg/figma.png' width='20%'>
-              <img title='linux' src='assets/svg/linux.png' width='20%'>
+              <img title='photoshop' src='assets/svg/adobephotoshop.png' height='42px'>
+              <img title='figma' src='assets/svg/figma.png' height='42px'>
+              <img title='linux' src='assets/svg/linux.png' height='42px'>
             </div> 
          </td>
       </tbody>
