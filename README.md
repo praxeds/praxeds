@@ -46,13 +46,11 @@
   <br/>
 
   <!--START_SECTION:activity-->
-  
+
   </br>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praxeds&layout=compact&theme=vue)](https://github.com/praxeds/github-readme-stats)
-
-
-  <br/><br/>
+   <!-- To be added later on -->
+   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praxeds&layout=compact&theme=vue)](https://github.com/praxeds/github-readme-stats) -->
 
   <br>
    <h2>Projects</h2>
