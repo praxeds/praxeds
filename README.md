@@ -36,7 +36,7 @@
             <ul><li><strong><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></strong></li></ul>
         </li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
-            <ul><li><strong><a href="https://www.coursera.org/learn/introduction-to-version-control" target="_blank">Version Control</a></strong></li></ul>
+            <ul><li><strong><a href="https://www.coursera.org/learn/html-and-css-in-depth" target="_blank">HTML and CSS in depth</a></strong></li></ul>
         </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
      </ul>
@@ -97,38 +97,34 @@
       <tbody>
          <td valign='top' width='33.33%'>
             <h3 align='center'>
-            Frontend
-            <h3>
-            <div align="center">
-              <img src='assets/svg/html5.png' width='20%'>
-              <img src='assets/svg/css3.png' width='20%'>
-              <img src='assets/svg/javascript.png' width='20%'>
-              <img src='assets/svg/bootstrap.png' width='20%'>
-              <img src='assets/svg/tailwindcss.png' width='20%'> 
-            </div>                                 
-         </td>
-         <td valign='top' width='33.33%'>
-            <h3 align='center'>
             Backend
             <h3>
             <div align="center">
-              <img src='assets/svg/git.png' width='20%'>
-              <img src='assets/svg/nodedotjs.png' width='20%'>  
+              <img title='git' src='assets/svg/git.png' width='20%'>
+              <img title='nodejs' src='assets/svg/nodedotjs.png' width='20%'>  
             </div>
+         </td>
+         <td valign='top' width='33.33%'>
+            <h3 align='center'>
+            Frontend
+            <h3>
+            <div align="center">
+              <img title='html' src='assets/svg/html5.png' width='20%'>
+              <img title='css' src='assets/svg/css3.png' width='20%'>
+              <img title='javascript' src='assets/svg/javascript.png' width='20%'>
+              <img title='bootstrap' src='assets/svg/bootstrap.png' width='20%'>
+              <img title='tailwindcss' src='assets/svg/tailwindcss.png' width='20%'> 
+              <img title='react' src='assets/svg/react.png' width='20%'> 
+            </div>                                 
          </td>
          <td valign='top' width='33.33%'>
             <h3 align='center'>
             Other softwares
             <h3>
             <div align="center">
-              <img src='assets/svg/adobephotoshop.png' width='20%'>
-              <img src='assets/svg/adobeillustrator.png' width='20%'>
-              <img src='assets/svg/gimp.png' width='20%'>
-              <img src='assets/svg/ubuntu.png' width='20%'>
-              <img src='assets/svg/webflow.png' width='20%'> 
-              <img src='assets/svg/figma.png' width='20%'> 
-              <img src='assets/svg/zendesk.png' width='20%'> 
-              <img src='assets/svg/slack.png' width='20%'>
+              <img title='photoshop' src='assets/svg/adobephotoshop.png' width='20%'>
+              <img title='figma' src='assets/svg/figma.png' width='20%'>
+              <img title='linux' src='assets/svg/linux.png' width='18%'>
             </div> 
          </td>
       </tbody>
