@@ -1,6 +1,6 @@
 <div align="center">
    
-   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=bac4ff)
+   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=bac4ff&height=150)
 
    <a href="https://github.com/praxeds" target="_blank">
    <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=DC99AF" alt="profile views" style="margin-bottom: 5px;" />
@@ -29,9 +29,9 @@
   
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
-    <p>- 🎓 Majoring in Apparel Design</p>
-    <p>- 👩🏻 Pronouns: <strong>she/her</strong></p>
-<!--     <p>- 🖥️ I’m currently working on my personal <strong>portfolio website</strong></p> -->
+    <p>- 🎓 Majoring in Apparel Design;</p>
+    <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
+    <p>- 🖥️ I’m currently working on <strong><a href="https://www.github.com/praxeds/100devs-tic-tac-toe/" target="_blank">Tic Tac Toe</a></strong></p>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
@@ -43,7 +43,7 @@
         </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
      </ul>
-    <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
+    <p>- 🐉 Fun fact: I lived in China for two years, so I can speak Mandarin (intermediate though 一点点)</p>
   </div>
 
   <br>
