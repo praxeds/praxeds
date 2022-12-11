@@ -43,6 +43,17 @@
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
 
+  <br/>
+
+  <!--START_SECTION:activity-->
+  
+  </br>
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praxeds&layout=compact&theme=vue)](https://github.com/praxeds/github-readme-stats)
+
+
+  <br/><br/>
+
   <br>
    <h2>Projects</h2>
    <div>
@@ -124,7 +135,7 @@
             <div align="center">
               <img title='photoshop' src='assets/svg/adobephotoshop.png' width='20%'>
               <img title='figma' src='assets/svg/figma.png' width='20%'>
-              <img title='linux' src='assets/svg/linux.png' width='18%'>
+              <img title='linux' src='assets/svg/linux.png' width='20%'>
             </div> 
          </td>
       </tbody>
