@@ -42,15 +42,7 @@
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
-
-  <!-- <br/> -->
-
-  <!--START_SECTION:activity-->
-
-  <!-- </br> -->
-
-   <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bvg25cdgjy8h1m353i7yjw68d&cover_image=true&theme=compact&show_offline=false&background_color=383838)](https://spotify-github-profile.vercel.app/api/view?uid=bvg25cdgjy8h1m353i7yjw68d&redirect=true) -->
-
+  
    <!--START_SECTION:waka-->
    <!--END_SECTION:waka-->
 
