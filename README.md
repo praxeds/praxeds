@@ -42,9 +42,6 @@
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
-  
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
 
   <br>
    <h2>Projects</h2>
@@ -133,3 +130,7 @@
       </tbody>
    </table>
 </div>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
