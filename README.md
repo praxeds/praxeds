@@ -23,6 +23,7 @@
    </a>
 
   <br>
+  <br>
   
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
@@ -42,6 +43,9 @@
      </ul>
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <br>
    <h2>Projects</h2>
@@ -130,7 +134,3 @@
       </tbody>
    </table>
 </div>
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
