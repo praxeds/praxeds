@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/praxeds" target="_blank">
-   <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=E4B4AE" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
    <img height="25px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
@@ -20,9 +20,10 @@
    <a href="https://discord.com/users/748116653006651484/" target="_blank">
    <img height="25px" src="https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray" alt="discord" style="margin-bottom: 5px;" />
    </a>
+   <br>
 
    ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=150)
-   
+
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
@@ -49,18 +50,18 @@
          <td width="50%">
             <h3 align="center">The Odin Project | Rock, Paper, Scissors</h3>
             <p align="center">
-               <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"> <img src="assets/images/project-five.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+               <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"> <img src="assets/images/project1.gif" alt="project example"/> </a>
+               <span> <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/codepen-chers-closet/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
             <p align="center">
-               <strong>HTML, CSS, JavaScript </strong>A simple implementation of the classic “rock paper scissors”. Part of The Odin Project's curriculum.
+               <strong>HTML, CSS, JavaScript </strong>A Remake of Cher's closet scene from the 1995 movie Clueless.
             </p>
             </p>
          </td>
          <td width="50%">
             <h3 align="center">freeCodeCamp | A Tribute Page</h3>
             <p align="center">
-               <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project-two.gif" alt="project example"/> </a>
-               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px" target="_blank"></a> </span>
+               <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project4.gif" alt="project example"/> </a>
+               <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px" target="_blank"></a> </span>
             <p align="center">
                <strong>HTML, CSS </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
             </p>
@@ -71,20 +72,20 @@
             <td width="50%">
                <h3 align="center">CodePen | "Clueless" Cher's Wardrobe</h3>
                <p align="center">
-                  <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"> <img src="assets/images/project-six.gif" alt="project example"/> </a>
-                  <span> <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/codepen-chers-closet/index.html" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a></span>
+                  <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"> <img src="assets/images/project2.gif" alt="project example"/> </a>
+                  <span> <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a></span>
                <p align="center">
-                  <strong>HTML, CSS, JavaScript </strong> Remake of Cher's closet scene from the 1995 movie Clueless. Part of Codepen's November 2022 weekly challenges.
+                  <strong>HTML, CSS, JavaScript </strong> A simple implementation of grade-school classic “rock paper scissors” using vanilla Javascript.
                </p>
                </p>
             </td>
             <td width="50%">
                <h3 align="center">Scrimba | Basketball Scoreboard</h3>
                <p align="center">
-                  <a href="https://github.com/praxeds/scrimba-basketball-scoreboard" target="_blank" rel="noreferrer"> <img src="assets/images/project-four.gif" alt="project example"/> </a>
-                  <span> <a href="https://github.com/praxeds/scrimba-basketball-scoreboard" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-92ACC2?style=flat-square&logo=github&logoColor=D8E1E9" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/scrimba-basketball-scoreboard/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
+                  <a href="https://github.com/praxeds/theodinproject-calculator" target="_blank" rel="noreferrer"> <img src="assets/images/project3.gif" alt="project example"/> </a>
+                  <span> <a href="https://github.com/praxeds/theodinproject-calculator" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-calculator" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
                <p align="center">
-                  <strong>HTML, CSS, JavaScript </strong>1st Solo Project from Scrimba's JavaScript Course. A simple web app to help keep score of a basketball match.
+                  <strong>HTML, CSS, JavaScript </strong>On-screen calculator built using JavaScript, HTML, and CSS.
                </p>
                </p>
             </td>
