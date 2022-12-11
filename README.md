@@ -22,7 +22,7 @@
    <img height="25px" src="https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray" alt="discord" style="margin-bottom: 5px;" />
    </a>
 
-  <br><br>
+  <br>
   
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
@@ -43,14 +43,16 @@
     <p>- 🐉 Fun fact: <strong>I lived in China for two years, so I can speak Mandarin (intermediate though 一点点) </strong></p>
   </div>
 
-  <br/>
+  <!-- <br/> -->
 
   <!--START_SECTION:activity-->
 
-  </br>
+  <!-- </br> -->
 
-   <!-- To be added later on -->
-   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praxeds&layout=compact&theme=vue)](https://github.com/praxeds/github-readme-stats) -->
+   <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bvg25cdgjy8h1m353i7yjw68d&cover_image=true&theme=compact&show_offline=false&background_color=383838)](https://spotify-github-profile.vercel.app/api/view?uid=bvg25cdgjy8h1m353i7yjw68d&redirect=true) -->
+
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
 
   <br>
    <h2>Projects</h2>
