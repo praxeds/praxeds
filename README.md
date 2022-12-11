@@ -103,8 +103,8 @@
             Backend
             <h3>
             <div align="center">
-              <img title='git' src='assets/svg/git.png' height='42px'>
-              <img title='nodejs' src='assets/svg/nodedotjs.png' height='42px'>  
+              <img title='git' src='assets/svg/git.png' height='35px'>
+              <img title='nodejs' src='assets/svg/nodedotjs.png' height='35px'>  
             </div>
          </td>
          <td valign='top' width='33.33%'>
@@ -112,12 +112,12 @@
             Frontend
             <h3>
             <div align="center">
-              <img title='html' src='assets/svg/html5.png' height='42px'>
-              <img title='css' src='assets/svg/css3.png' height='42px'>
-              <img title='javascript' src='assets/svg/javascript.png' height='42px'>
-              <img title='bootstrap' src='assets/svg/bootstrap.png' height='42px'>
-              <img title='tailwindcss' src='assets/svg/tailwindcss.png' height='42px'> 
-              <img title='react' src='assets/svg/react.png' height='42px'> 
+              <img title='html' src='assets/svg/html5.png' height='35px'>
+              <img title='css' src='assets/svg/css3.png' height='35px'>
+              <img title='javascript' src='assets/svg/javascript.png' height='35px'>
+              <img title='bootstrap' src='assets/svg/bootstrap.png' height='35px'>
+              <img title='tailwindcss' src='assets/svg/tailwindcss.png' height='35px'> 
+              <img title='react' src='assets/svg/react.png' height='35px'> 
             </div>                                 
          </td>
          <td valign='top' width='33.33%'>
@@ -125,9 +125,9 @@
             Other softwares
             <h3>
             <div align="center">
-              <img title='photoshop' src='assets/svg/adobephotoshop.png' height='42px'>
-              <img title='figma' src='assets/svg/figma.png' height='42px'>
-              <img title='linux' src='assets/svg/linux.png' height='42px'>
+              <img title='photoshop' src='assets/svg/adobephotoshop.png' height='35px'>
+              <img title='figma' src='assets/svg/figma.png' height='35px'>
+              <img title='linux' src='assets/svg/linux.png' height='35px'>
             </div> 
          </td>
       </tbody>
