@@ -31,7 +31,7 @@
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
     <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
-    <p>- 🖥️ I’m currently working on <strong><a href="https://www.github.com/praxeds/100devs-tic-tac-toe/" target="_blank">Tic Tac Toe</a></strong></p>
+    <p>- 🖥️ I’m currently working on <strong><a href="https://www.github.com/praxeds/100devs-tic-tac-toe/" target="_blank">Tic Tac Toe</a></strong>;</p>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
