@@ -1,7 +1,4 @@
 <div align="center">
-   
-   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=150)
-
    <a href="https://github.com/praxeds" target="_blank">
    <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=E4B4AE" alt="profile views" style="margin-bottom: 5px;" />
    </a>
@@ -24,8 +21,8 @@
    <img height="25px" src="https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray" alt="discord" style="margin-bottom: 5px;" />
    </a>
 
-  <br>
-  
+   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=150)
+   
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
