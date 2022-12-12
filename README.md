@@ -49,7 +49,7 @@
    <div>
       <table>
          <td width="50%">
-            <h3 align="center">The Odin Project | Rock, Paper, Scissors</h3>
+            <h3 align="center">Clueless | Cher's Closet</h3>
             <p align="center">
                <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"> <img src="assets/images/project1.gif" alt="project example"/></a>
                <span> <a href="https://github.com/praxeds/codepen-chers-closet" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/codepen-chers-closet/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
@@ -71,7 +71,7 @@
          </tr>
          <tr>
             <td width="50%">
-               <h3 align="center">CodePen | "Clueless" Cher's Wardrobe</h3>
+               <h3 align="center">TOP | Rock Paper Scissors</h3>
                <p align="center">
                   <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"> <img src="assets/images/project2.gif" alt="project example"/> </a>
                   <span> <a href="https://github.com/praxeds/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-rock-paper-scissors" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a></span>
@@ -81,7 +81,7 @@
                </p>
             </td>
             <td width="50%">
-               <h3 align="center">Scrimba | Basketball Scoreboard</h3>
+               <h3 align="center">TOP | Calculator</h3>
                <p align="center">
                   <a href="https://github.com/praxeds/theodinproject-calculator" target="_blank" rel="noreferrer"> <img src="assets/images/project3.gif" alt="project example"/> </a>
                   <span> <a href="https://github.com/praxeds/theodinproject-calculator" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/theodinproject-calculator" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px"></a> </span>
