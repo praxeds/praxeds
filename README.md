@@ -26,10 +26,10 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
   <div align="left">
-    <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Engineer based in Brazil. Currently looking to expand on my portfolio and always open for collaborations!</p>
+    <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Web Developer based in Brazil. Currently studying full time and always open for collaborations!</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
     <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
-    <p>- 🖥️ I’m currently working on <strong><a href="https://www.github.com/praxeds/100devs-tic-tac-toe/" target="_blank">Tic Tac Toe</a></strong>;</p>
+    <p>- 🖥️ I’m currently working on <strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></strong>;</p>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
@@ -40,6 +40,7 @@
             <ul><li><strong><a href="https://www.coursera.org/learn/html-and-css-in-depth" target="_blank">HTML and CSS in depth</a></strong></li></ul>
         </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
+        <li><strong><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">CS50x</a></strong></li>
      </ul>
     <p>- 🐉 Fun fact: I lived in China for two years, so I can speak Mandarin (intermediate though 一点点)</p>
   </div>
@@ -64,7 +65,7 @@
                <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer"> <img src="assets/images/project4.gif" alt="project example"/> </a>
                <span> <a href="https://github.com/praxeds/freecodecamp-tribute-page" target="_blank" rel="noreferrer""><img height="25px" src="https://img.shields.io/badge/-repo-959db0?style=flat-square&logo=github&logoColor=white" alt="button to repository" height ="25px"></a> <a href="https://praxeds.github.io/freecodecamp-tribute-page/en/" target="_blank" rel="noreferrer"><img height="25px" src="https://img.shields.io/badge/-live website-35393F?style=flat-square" alt="button to live site" height="26px" target="_blank"></a> </span>
             <p align="center">
-               <strong>HTML, CSS, JavaScript </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
+               <strong>HTML, CSS </strong>A tribute page to Nise da Silveira, a revolutionary Brazilian psychiatrist and pioneer of rehabilitation psychiatry.
             </p>
             </p>
          </td>
