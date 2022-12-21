@@ -23,13 +23,28 @@
    <br/>
    <br/>
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Web Developer based in Brazil. Currently studying full time and always open for collaborations!</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
     <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
-    <p>- 🖥️ I’m currently working on <strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></strong>;</p>
+    <p>- 🖥️ I’m currently working on/projects in development:</p>
+    <ul>
+        <li><strong>Freelance projects</strong></li>
+        <li><strong>100Devs</strong>
+            <ul>
+                <li><strong><a href="https://github.com/praxeds/100devs-tic-tac-toe" target="_blank">OOP Tic Tac Toe</a></strong></li>
+            </ul>
+        </li>
+        <li><strong>The Odin Project</strong>
+            <ul>
+                <li><strong><a href="https://github.com/praxeds/theodinproject-admin-dashboard" target="_blank">Admin Dashboard</a></strong></li>
+                <li><strong><a href="https://github.com/praxeds/theodinproject-etch-a-sketch" target="_blank">Etch a Sketch</a></strong></li>
+            </ul>
+        </li>
+        <li><strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></li>
+     </ul>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
