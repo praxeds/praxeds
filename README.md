@@ -48,6 +48,7 @@
     <p>- 🌱 Currently focusing on:</p>
      <ul>
         <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
+        <li><strong><a href="https://www.freecodecamp.org/learn/front-end-development-libraries" target="_blank">Front End Development Libraries</a></strong></li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer" target="_blank">Meta Back-End Developer Professional Certificate</a></strong>
             <ul><li><strong><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></strong></li></ul>
         </li>
