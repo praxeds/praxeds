@@ -43,7 +43,7 @@
                 <li><strong><a href="https://github.com/praxeds/theodinproject-etch-a-sketch" target="_blank">Etch a Sketch</a></strong></li>
             </ul>
         </li>
-        <li><strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></li>
+        <li><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></li>
      </ul>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
