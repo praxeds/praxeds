@@ -53,7 +53,7 @@
             <ul><li><strong><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></strong></li></ul>
         </li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
-            <ul><li><strong><a href="https://www.coursera.org/learn/react-basics" target="_blank">React Basics</a></strong></li></ul>
+            <ul><li><strong><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Advanced React</a></strong></li></ul>
         </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
         <li><strong><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">CS50x</a></strong></li>
