@@ -34,31 +34,30 @@
         <li><strong>Freelance projects</strong></li>
         <li><strong>100Devs</strong>
             <ul>
-                <li><strong><a href="https://github.com/praxeds/100devs-tic-tac-toe" target="_blank">OOP Tic Tac Toe</a></strong></li>
+                <li><a href="https://github.com/praxeds/100devs-tic-tac-toe" target="_blank">OOP Tic Tac Toe</a></li>
             </ul>
         </li>
         <li><strong>The Odin Project</strong>
             <ul>
-                <li><strong><a href="https://github.com/praxeds/theodinproject-admin-dashboard" target="_blank">Admin Dashboard</a></strong></li>
-                <li><strong><a href="https://github.com/praxeds/theodinproject-etch-a-sketch" target="_blank">Etch a Sketch</a></strong></li>
+                <li><a href="https://github.com/praxeds/theodinproject-admin-dashboard" target="_blank">Admin Dashboard</a></li>
+                <li><a href="https://github.com/praxeds/theodinproject-etch-a-sketch" target="_blank">Etch a Sketch</a></li>
             </ul>
         </li>
-        <li><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></li>
+<!--         <li><strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></strong></li> -->
      </ul>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
-        <li><strong><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a></strong></li>
         <li><strong><a href="https://www.freecodecamp.org/learn/front-end-development-libraries" target="_blank">Front End Development Libraries</a></strong></li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer" target="_blank">Meta Back-End Developer Professional Certificate</a></strong>
-            <ul><li><strong><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></strong></li></ul>
+            <ul><li><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></li></ul>
         </li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
-            <ul><li><strong><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Advanced React</a></strong></li></ul>
+            <ul><li><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Advanced React</a></li></ul>
         </li>
         <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
         <li><strong><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">CS50x</a></strong></li>
      </ul>
-    <p>- 🐉 Fun fact: I lived in China for two years, so I can speak Mandarin (intermediate though 一点点)</p>
+<!--     <p>- 🐉 Fun fact: I lived in China for two years, so I can speak Mandarin (intermediate though 一点点)</p> -->
   </div>
 
   <br>
