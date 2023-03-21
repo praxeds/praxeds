@@ -1,24 +1,21 @@
 <div align="center">
    <a href="https://github.com/praxeds" target="_blank">
-   <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
    </a>
    <a href="https://twitter.com/jpraxeds" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=D1E6FF&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=D1E6FF&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
    </a>
    <a href="https://instagram.com/juc.praxedes" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=6B9667&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=6B9667&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
    </a>
    <a href="mailto:contact@julianapraxedes.com" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
    </a>
    <a href="https://codepen.io/praxeds/" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
-   </a>
-   <a href="https://discord.com/users/748116653006651484/" target="_blank">
-   <img height="25px" src="https://dcbadge.vercel.app/api/shield/748116653006651484?theme=gray" alt="discord" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
    </a>
    <br/>
    <br/>
@@ -26,41 +23,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
   <div align="left">
-    <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Web Developer based in Brazil. Currently studying full time and always open for collaborations!</p>
+    <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Software Developer based in Brazil.</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
     <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
     <p>- 🖥️ I’m currently working on/projects in development:</p>
-    <ul>
-        <li><strong>Freelance projects</strong></li>
-        <li><strong>100Devs</strong>
-            <ul>
-                <li><a href="https://github.com/praxeds/100devs-tic-tac-toe" target="_blank">OOP Tic Tac Toe</a></li>
-            </ul>
-        </li>
-        <li><strong>The Odin Project</strong>
-            <ul>
-                <li><a href="https://github.com/praxeds/theodinproject-admin-dashboard" target="_blank">Admin Dashboard</a></li>
-                <li><a href="https://github.com/praxeds/theodinproject-etch-a-sketch" target="_blank">Etch a Sketch</a></li>
-            </ul>
-        </li>
-<!--         <li><strong><a href="https://github.com/praxeds/checkspeech-ai-react" target="_blank">CheckSpeech AI React Landing Page</a></strong></li> -->
-     </ul>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
-        <li><strong><a href="https://www.freecodecamp.org/learn/front-end-development-libraries" target="_blank">Front End Development Libraries</a></strong></li>
+        <li><strong><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/" target="_blank">Back End Development and APIs</a></strong></li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer" target="_blank">Meta Back-End Developer Professional Certificate</a></strong>
             <ul><li><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></li></ul>
         </li>
         <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
-            <ul><li><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Advanced React</a></li></ul>
+            <ul><li><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Front-End Developer Capstone</a></li></ul>
         </li>
-        <li><strong><a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">The Odin Project's Fullstack JavaScript</a></strong></li>
-        <li><strong><a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">CS50x</a></strong></li>
      </ul>
-<!--     <p>- 🐉 Fun fact: I lived in China for two years, so I can speak Mandarin (intermediate though 一点点)</p> -->
   </div>
 
-  <br>
+<!--   <br>
    <h2>Projects</h2>
    <div>
       <table>
@@ -148,6 +127,6 @@
          </td>
       </tbody>
    </table>
-</div>
+</div> -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=dce1ff)
