@@ -1,24 +1,23 @@
 <div align="center">
    <a href="https://github.com/praxeds" target="_blank">
-   <img height="30px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
    </a>
-   <a href="https://twitter.com/jpraxeds" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=D1E6FF&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-   </a>
+<!--    <a href="https://twitter.com/jpraxeds" target="_blank">
+   <img height="25px" src="https://img.shields.io/badge/twitter-%2300acee.png?color=D1E6FF&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+   </a> -->
    <a href="https://instagram.com/juc.praxedes" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=6B9667&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=6B9667&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
    </a>
    <a href="mailto:contact@julianapraxedes.com" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
    </a>
    <a href="https://codepen.io/praxeds/" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
+   <img height="25px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
    </a>
-   <br/>
-   <br/>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
