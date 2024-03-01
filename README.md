@@ -21,6 +21,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
 
+<!--
   <div align="left">
     <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Software Developer based in Brazil.</p>
     <p>- 🎓 Majoring in Apparel Design;</p>
@@ -38,7 +39,7 @@
      </ul>
   </div>
 
-<!--   <br>
+  <br>
    <h2>Projects</h2>
    <div>
       <table>
@@ -126,6 +127,7 @@
          </td>
       </tbody>
    </table>
-</div> -->
+</div> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=dce1ff)
+-->
