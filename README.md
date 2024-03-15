@@ -16,7 +16,7 @@
    </a>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=dce1ff&height=160)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=e6e8f7&height=160)
 
 <!--
   <div align="left">
