@@ -1,42 +1,36 @@
 <div align="center">
+   <a href="https://codepen.io/praxeds/" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
+   </a>
    <a href="https://github.com/praxeds" target="_blank">
-   <img height="25px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=e4bfae" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://komarev.com/ghpvc/?username=praxeds&style=for-the-badge&color=65bcc7" alt="profile views" style="margin-bottom: 5px;" />
    </a>
    <a href="https://www.linkedin.com/in/juliana-praxedes/" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=2E4C5F&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
    </a>
    <a href="https://instagram.com/juc.praxedes" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/instagram-%ff5851db.png?color=6B9667&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+   <img height="30px" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freecodecamp" style="margin-bottom: 5px;" />
    </a>
-   <a href="mailto:contact@julianapraxedes.com" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   <a href="https://instagram.com/juc.praxedes" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
    </a>
-   <a href="https://codepen.io/praxeds/" target="_blank">
-   <img height="25px" src="https://img.shields.io/badge/Codepen-222222?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
+   <a href="mailto:almeida.praxedes.juliana@gmail.com" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/Gmail-CE5437?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
    </a>
 
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=0:65bcc7,100:2d6cff&height=260)
 
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=e6e8f7&height=160)
-
-<!--
   <div align="left">
-    <p>Hi there! I'm <strong>Ana</strong>, a Full-Stack Software Developer based in Brazil.</p>
-    <p>- 🎓 Majoring in Apparel Design;</p>
+    <p>Hi there! I'm <strong>Juliana Praxedes</strong>, an Elixir Developer based in Taichung.</p>
+    <p>- 🎓 Academic background in Fashion Design;</p>
     <p>- 👩🏻 Pronouns: <strong>she/her</strong>;</p>
-    <p>- 🖥️ I’m currently working on/projects in development:</p>
     <p>- 🌱 Currently focusing on:</p>
      <ul>
-        <li><strong><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/" target="_blank">Back End Development and APIs</a></strong></li>
-        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer" target="_blank">Meta Back-End Developer Professional Certificate</a></strong>
-            <ul><li><a href="https://www.coursera.org/learn/programming-in-python" target="_blank">Programming in Python</a></li></ul>
-        </li>
-        <li><strong><a href="https://www.coursera.org/professional-certificates/meta-front-end-developer" target="_blank">Meta Front-End Developer Professional Certificate</a></strong>
-            <ul><li><a href="https://www.coursera.org/learn/advanced-react" target="_blank">Front-End Developer Capstone</a></li></ul>
-        </li>
+        <li><strong><a href="https://www.freecodecamp.org/learn/relational-database" target="_blank">FreeCodeCamp's Relational Database Certification</a></strong></li>
      </ul>
   </div>
 
-  <br>
+  <!-- <br>
    <h2>Projects</h2>
    <div>
       <table>
@@ -84,47 +78,5 @@
             </td>
          </tr>
       </table>
-
-   <br>
-   
-   <h2 align='center'>Technologies</h2>
-   <table>
-      <tbody>
-         <td valign='top' width='33.33%'>
-            <h3 align='center'>
-            Backend
-            <h3>
-            <div align="center">
-              <img title='git' src='assets/svg/git.png' height='35px'>
-              <img title='nodejs' src='assets/svg/nodedotjs.png' height='35px'>  
-            </div>
-         </td>
-         <td valign='top' width='33.33%'>
-            <h3 align='center'>
-            Frontend
-            <h3>
-            <div align="center">
-              <img title='html' src='assets/svg/html5.png' height='35px'>
-              <img title='css' src='assets/svg/css3.png' height='35px'>
-              <img title='javascript' src='assets/svg/javascript.png' height='35px'>
-              <img title='bootstrap' src='assets/svg/bootstrap.png' height='35px'>
-              <img title='tailwindcss' src='assets/svg/tailwindcss.png' height='35px'> 
-              <img title='react' src='assets/svg/react.png' height='35px'> 
-            </div>                                 
-         </td>
-         <td valign='top' width='33.33%'>
-            <h3 align='center'>
-            Other softwares
-            <h3>
-            <div align="center">
-              <img title='photoshop' src='assets/svg/adobephotoshop.png' height='35px'>
-              <img title='figma' src='assets/svg/figma.png' height='35px'>
-              <img title='linux' src='assets/svg/linux.png' height='35px'>
-            </div> 
-         </td>
-      </tbody>
-   </table>
-</div> 
-
-![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=dce1ff)
--->
+   <br> -->
+</div>
